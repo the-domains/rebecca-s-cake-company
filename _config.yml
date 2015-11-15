@@ -1,0 +1,23 @@
+name: "Rebecca's Cake Company"
+favicon: null
+layout_spectrum: 0.9305115120951086
+typography_spectrum: 0.6524634985253215
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.15208853944204748
+  lightness: 0.8707552701234818
+  saturation: 0.8876585238613188
+  rhythmicContrast: 0.4672171345446259
+purpose: []
