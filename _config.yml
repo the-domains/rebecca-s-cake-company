@@ -1,7 +1,7 @@
 name: "Rebecca's Cake Company"
 favicon: null
-layout_spectrum: 0.94412
-typography_spectrum: 0.6524634985253215
+layout_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
