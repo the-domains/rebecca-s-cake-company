@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Beautiful handcrafted and bespoke celebration, birthday, and wedding cakes by Rebecca'
-datePublished: '2015-11-15T21:16:36.635Z'
-dateModified: '2015-11-15T21:16:32.522Z'
+datePublished: '2015-11-15T21:17:23.997Z'
+dateModified: '2015-11-15T21:16:41.727Z'
 title: "Welcome to Rebecca's Cake Company"
 sourcePath: _posts/2015-11-15-welcome-to-rebeccas-cake-company.md
 published: true
