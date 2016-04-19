@@ -1,29 +1,41 @@
-name: "Rebecca's Cake Company"
-favicon: null
-layout_spectrum: 0.9894
-typography_spectrum: 0.00289
 title: "Rebecca's Cake Company"
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0.4581096
+  lightness: 1
+  brandColors:
+    - '#A88D78'
+    - '#4B2506'
+    - '#000000'
+    - '#DCD1C9'
+    - '#DE9FB2'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: "Rebecca's Cake Company"
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#a98d7a'
-    - '#4c250c'
-    - '#000000'
-    - '#aa5555'
-    - '#c5b2a5'
-  brandStrength: 0.5
-  lightness: 0.9375
-  saturation: 0.875
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.5322234
+layout_spectrum: 0.9894
